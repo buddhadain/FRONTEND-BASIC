@@ -54,7 +54,7 @@ Er zijn er nog veel meer. Door te blijven coderen kom je er vanzelf achter welke
 1. Maak bij deze taak gebruik van bestand: `index.html`
 2. Maak 3 artikelen met ieder een andere koptekst-grootte
 3. Maak daarbij gebruik van paragraaf `<p>` tags.
-4. Omdat het om artikelen gaat zet je het geheel tussen `<article>` tags
+4.  Omdat het om artikelen gaat zet je het geheel tussen`<article>` tags
 5. Zet de onderstaande teksten op de juiste plek in de pagina
 
 #### Artikel 1
